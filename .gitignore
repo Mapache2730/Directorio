@@ -3,6 +3,11 @@
 /node_modules
 /build
 
+dist
+
+src/auth/keys/private.pem
+src/auth/keys/public.pem
+
 # Logs
 logs
 *.log
